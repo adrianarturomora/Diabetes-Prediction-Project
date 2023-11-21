@@ -1,0 +1,4 @@
+Tasks:
+Data Collection and Preprocessing (Due Date: 12/14/2023) - Tariq
+Implement Random Forest Model (Due Date: 12/14/2023) - Uzair
+Implement Neural Network Model (Due Date: 12/14/2023) - Adrian
